@@ -3,6 +3,8 @@
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 
+[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/news-theme)](https://repl.it/github/freeCodeCamp/news-theme)
+
 # Ghost theme for Developer News
 
 > ### The [Ghost](http://github.com/tryghost/ghost/) theme for [Developer News](https://www.freecodecamp.org/news).
